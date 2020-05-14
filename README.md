@@ -10,3 +10,6 @@ where one end of the string/rope is fixed and the other is not. There is also no
 The included files are a screenshot and screen recording of the code running, as well as my preliminary notes and sketches
 for the conceptual understanding of standing waves and partial harmonics. These are all for reference and not necessary 
 to run the code. All needed to run the sketch are the lines of code.
+
+Some variables, including the color of the ellipses making up the waves and speed with which those ellipses move vertically, 
+are mapped/controlled by the position of the mouse.
