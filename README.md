@@ -1,4 +1,4 @@
-
+![screenshot](https://github.com/Victordc98/DeCaires_SineWave_Simulation/blob/master/Sinewave%20Screenshot.png)
 
 # DeCaires_SineWave_Simulation
 This sketch is an abstract simulation inspired by the movement of a vibrating string or rope. This specific example is 
